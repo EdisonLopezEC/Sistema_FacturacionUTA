@@ -17,6 +17,7 @@ const Routers =() =>{
 					/>
                     <Route path={`/*`} element={<LayoutRoutes />} />
             </Routes>
+            
         </Fragment>
     )
 }

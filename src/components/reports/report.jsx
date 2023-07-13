@@ -1,8 +1,12 @@
-import React from 'react'
+import React, { Fragment } from 'react'
 
 const Report = () => {
   return (
-	<div>Report</div>
+    <Fragment>
+      <div>
+        <span>Reportes</span>
+      </div>     
+    </Fragment>
   )
 }
 
